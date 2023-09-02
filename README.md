@@ -5,4 +5,4 @@ Download and open "Odin-UL.exe" or download "odin.ps1" and "odin.exe" and use Po
 # Attention
 Most virus scanners will flag the exe an a virus because it was made using ps2exe (even tho its digitally signed)!
 
-Also im not resopnsibe for any damages or anythong you might do with this tool!
+Also im not resopnsibe for any damages or anything you might do with this tool!
